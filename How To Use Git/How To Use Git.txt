@@ -1,0 +1,13 @@
+Before you do this if you haven't added credentials do now
+
+git config --global user.email "EMAIL"
+git config --global user.name "NAME"
+-----
+1) Select location
+--
+2) git init #Only on creation
+--
+3) git add .(All) or .{file extension}(All with specific file extension) or file_name.file_extension
+4) git commit -m "Commit Message"
+5) git remote add origin "Website Repository"
+6) git push - u origin main
